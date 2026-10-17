@@ -2,9 +2,7 @@
 
 Python tooling that lets AI agents edit viral short-form chess videos (4:5, 1080×1350, 60fps) from code. An agent writes one small script describing the game, timing, captions and music, and the studio renders a finished MP4.
 
-https://github.com/user-attachments/assets/REPLACE_WITH_UPLOADED_VIDEO_ID
-
-<video src="exports/the_legal_trap.mp4" controls muted width="360"></video>
+[![The Légal Trap, a video made with chessStudio](https://img.youtube.com/vi/qenlkRRqwK4/hqdefault.jpg)](https://www.youtube.com/shorts/qenlkRRqwK4)
 
 *[exports/the_legal_trap.mp4](exports/the_legal_trap.mp4): the Légal Trap queen sacrifice, produced entirely by this tooling.*
 
